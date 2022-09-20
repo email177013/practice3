@@ -2,4 +2,4 @@ hello!
 
 it is empty repository for practice 3
 
-something update1
+something different update1
